@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ligatix'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0FCA759E5BB042FBAB5FE0B19995819C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E63253A28FDE476291D052518AA0FED1 }}
           package: .
